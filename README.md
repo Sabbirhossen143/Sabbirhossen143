@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=Sabbirhossen143&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<img width="1536" height="604" alt="Sabbir Hossen - Full Stack Developer" src="https://github.com/user-attachments/assets/e531285f-fa35-4de7-baa5-de13d1c4891d" />
+<img width="1536" height="550" alt="Sabbir Hossen - Full Stack Developer" src="https://github.com/user-attachments/assets/e4420cf9-3485-40ba-a355-ccaabbbc1a85" />
+
 
 <h3 align="center">CSE Student | Frontend Developer | React & Node.js Learner</h3>
 
