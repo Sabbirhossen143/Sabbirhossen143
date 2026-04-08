@@ -7,7 +7,7 @@
 <img width="1536" height="550" alt="Sabbir Hossen - Full Stack Developer" src="https://github.com/user-attachments/assets/e4420cf9-3485-40ba-a355-ccaabbbc1a85" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+GitHub+Profile+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+there+👋;I+am+Sabbir+Hossen;Building+modern+web+applications+🚀" />
 </p>
 
 <h3 align="center">CSE Student | Frontend Developer | React & Node.js Learner</h3>
