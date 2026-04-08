@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
 
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sabbirhossen143&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello,+there!+👋;I+am+Sabbir+Hossen...;Welcome+to+my+digital+workspace+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+digital+workspace+💻" />
 </p>
 
 <h3 align="center">Full Stack Developer | JavaScript, React & Node.js</h3>
