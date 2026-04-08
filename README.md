@@ -6,6 +6,7 @@
 
 <img width="1536" height="550" alt="Sabbir Hossen - Full Stack Developer" src="https://github.com/user-attachments/assets/e4420cf9-3485-40ba-a355-ccaabbbc1a85" />
 
+lines=Hello+there+👋;I+am+Sabbir+Hossen;Building+clean+and+scalable+web+applications+🚀
 
 <h3 align="center">CSE Student | Frontend Developer | React & Node.js Learner</h3>
 
