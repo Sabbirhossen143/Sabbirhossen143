@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/mdalfaz.aziz/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   
