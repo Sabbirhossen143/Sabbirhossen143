@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sabbirhossen143&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<img width="1536" height="550" alt="Sabbir Hossen - Full Stack Developer" src="https://github.com/user-attachments/assets/e4420cf9-3485-40ba-a355-ccaabbbc1a85" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4420cf9-3485-40ba-a355-ccaabbbc1a85" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+digital+workspace+💻" />
@@ -17,6 +19,9 @@
   ⚙️ Skilled in JavaScript, React, Node.js, HTML & CSS <br>
   🧠 Problem Solver & Continuous Learner
 </p>
+
+---
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
@@ -28,14 +33,11 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  
   <a href="mailto:sabbirhossen1430@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 ---
 
 ## 💫 About Me
@@ -46,7 +48,6 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
 ---
 
 ## 🔥 What I Do
-
 - 🌱 Passionate about modern web technologies  
 - 💡 Love building real-world practical projects  
 - 🧩 Improving problem-solving skills using C++  
@@ -64,8 +65,11 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
 - HTML
 - CSS
 - Tailwind CSS
+- React.js  
 
-⚙️ **Tools & Concepts**
+⚙️ **Backend & Tools**
+- Node.js  
+- Express.js  
 - Git & GitHub  
 - REST API Integration  
 - Responsive Web Design  
@@ -73,40 +77,26 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
 ---
 
 ## 🚀 Projects & Experience
-
 - 📊 Dashboard Interfaces  
 - 🌐 Responsive Websites  
 - 🔗 API-based Web Applications  
-
-These projects helped me strengthen my understanding of modern frontend development and UI design.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabbirhossen143&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbirhossen143&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎯 Goals
-
-- 🚀 Grow as a professional frontend developer  
+- 🚀 Become a professional full-stack developer  
 - 🤝 Collaborate on real-world projects  
-- 📚 Learn modern frameworks like React  
-- 💼 Work in impactful software development roles  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:sabbirhossen1430@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 📚 Master React and modern frameworks  
+- 💼 Work on impactful software solutions  
 
 ---
 
