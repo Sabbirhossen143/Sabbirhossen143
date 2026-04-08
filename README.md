@@ -17,6 +17,25 @@
   ⚙️ Skilled in JavaScript, React, Node.js, HTML & CSS <br>
   🧠 Problem Solver & Continuous Learner
 </p>
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="mailto:sabbirhossen1430@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 💫 About Me
