@@ -1,4 +1,4 @@
-<h2 align="left">💻 Sabbirhossen.dev</h2>
+<h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
 
 
 <p align="left">
