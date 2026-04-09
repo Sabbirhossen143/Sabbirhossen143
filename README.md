@@ -58,6 +58,7 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,git,github,vscode" />
 </p>
 
+```javascript
 const SabbirHossen = {
   pronouns: "he/him",
   code: ["C++", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
@@ -67,9 +68,8 @@ const SabbirHossen = {
     database: ["MongoDB"],
     tools: ["Git", "GitHub", "VS Code"]
   },
-  currentFocus: "Building modern web applications",
-  learning: ["Advanced React", "Backend Development"],
-  funFact: "I love solving problems and building real-world projects 🚀"
+  currentFocus: "Full Stack Development",
+  challenge: "Improving problem-solving skills in C++",
 };
 ---
 
