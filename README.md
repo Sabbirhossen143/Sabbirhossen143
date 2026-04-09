@@ -20,9 +20,6 @@
   🧠 Problem Solver & Continuous Learner
 </p>
 
----
-
-<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sabbir-hossen-jisan" target="_blank">
