@@ -55,31 +55,11 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
 
 ---
 
-## 🛠️ Technical Skills
+ <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
 
-💻 **Languages**
-- C++
-- JavaScript
-
-🎨 **Frontend**
-- HTML
-- CSS
-- Tailwind CSS
-- React.js  
-
-⚙️ **Backend & Tools**
-- Node.js  
-- Express.js  
-- Git & GitHub  
-- REST API Integration  
-- Responsive Web Design  
-
----
-
-## 🚀 Projects & Experience
-- 📊 Dashboard Interfaces  
-- 🌐 Responsive Websites  
-- 🔗 API-based Web Applications  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
