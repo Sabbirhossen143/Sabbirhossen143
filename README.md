@@ -62,8 +62,8 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabbirhossen143&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbirhossen143&theme=tokyonight" />
 </p>
 
