@@ -58,7 +58,7 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
  <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,git,github,vscode" />
 </p>
 
 ---
