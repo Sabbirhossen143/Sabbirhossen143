@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sabbirhossen143&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
@@ -58,6 +58,19 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,git,github,vscode" />
 </p>
 
+const SabbirHossen = {
+  pronouns: "he/him",
+  code: ["C++", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  technologies: {
+    frontend: ["React.js"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "VS Code"]
+  },
+  currentFocus: "Building modern web applications",
+  learning: ["Advanced React", "Backend Development"],
+  funFact: "I love solving problems and building real-world projects 🚀"
+};
 ---
 
 ## 📊 GitHub Stats
