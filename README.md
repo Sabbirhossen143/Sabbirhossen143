@@ -15,9 +15,9 @@
 <h3 align="center">Full Stack Developer | JavaScript, React & Node.js</h3>
 
 <p align="center">
-  💻 Building scalable web applications using modern technologies <br>
-  ⚙️ Skilled in JavaScript, React, Node.js, HTML & CSS <br>
-  🧠 Problem Solver & Continuous Learner
+  💻 Building modern, scalable, and responsive web applications
+  ⚙️ Skilled in JavaScript, React, Next.js, Express.js, MongoDB & Firebase
+  🧠 Competitive Programmer | 800+ Problems Solved | Continuous Learner
 </p>
 
 
