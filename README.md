@@ -15,8 +15,8 @@
 <h3 align="center">🚀 Full Stack Developer | Next.js, React, Node.js & MongoDB</h3>
 
 <p align="center">
-  💻 Building modern, scalable, and responsive web applications
-  ⚙️ Skilled in JavaScript, React, Next.js, Express.js, MongoDB & Firebase
+  💻 Building modern, scalable, and responsive web applications<br>
+  ⚙️ Skilled in JavaScript, React, Next.js, Express.js, MongoDB & Firebase<br>
   🧠 Competitive Programmer | Problem Solver | Continuous Learner
 </p>
 
