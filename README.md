@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+digital+workspace+💻" />
 </p>
 
-<h3 align="center">Full Stack Developer | JavaScript, React & Node.js</h3>
+<h3 align="center">🚀 Full Stack Developer | Next.js, React, Node.js & MongoDB</h3>
 
 <p align="center">
   💻 Crafting scalable web applications with modern technologies
