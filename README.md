@@ -55,21 +55,13 @@ I enjoy transforming ideas into clean, user-friendly digital experiences and con
  <h3 align="center">🔥 Languages & Frameworks & Tools 🔥</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
 </p>
 
 ```javascript
-const SabbirHossen = {
-  pronouns: "he/him",
-  code: ["C++", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  technologies: {
-    frontend: ["React.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Git", "GitHub", "VS Code"]
-  },
-  currentFocus: "Full Stack Development",
-  challenge: "Improving problem-solving skills in C++",
+const SabbirHossen = { pronouns: "he/him", code: [ "C++", "JavaScript", "HTML", "CSS" ], technologies: { frontend: [ "React.js", "Next.js", "Tailwind CSS" ], backend: [ "Node.js", "Express.js" ], database: [ "MongoDB", "MySQL" ], authentication: [ "Firebase", "JWT" ], tools: [ "Git", "GitHub", "Postman", "VS Code", "Vercel" ] },
+ currentFocus: "Building scalable Full Stack Web Applications",
+ currentlyLearning: "Advanced Backend Development & System Design",
 };
 ```
 
