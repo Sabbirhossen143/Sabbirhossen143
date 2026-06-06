@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+digital+workspace+💻" />
+  <img src="https://raw.githubusercontent.com/Sabbirhossen143/Sabbirhossen143/main/header.png
+    font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Sabbir+Hossen;Welcome+to+my+digital+workspace+💻" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | Next.js, React, Node.js & MongoDB</h3>
