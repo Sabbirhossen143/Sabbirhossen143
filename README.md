@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sabbirhossen143/Sabbirhossen143/main/header.png" />
+  <img src="https://raw.githubusercontent.com/Sabbirhossen143/Sabbirhossen143/main/banner.png" />
 </p>
 
 <p align="center">
