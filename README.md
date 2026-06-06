@@ -66,9 +66,42 @@ const SabbirHossen = {
      "C++",
      "JavaScript",
      "HTML",
-     "CSS" ], technologies: { frontend: [ "React.js", "Next.js", "Tailwind CSS" ], backend: [ "Node.js", "Express.js" ], database: [ "MongoDB", "MySQL" ], authentication: [ "Firebase", "JWT" ], tools: [ "Git", "GitHub", "Postman", "VS Code", "Vercel" ] },
- currentFocus: "Building scalable Full Stack Web Applications",
- currentlyLearning: "Advanced Backend Development & System Design",
+     "CSS"
+   ],
+
+   technologies: {
+     frontend: [
+       "React.js",
+       "Next.js",
+       "Tailwind CSS"
+   ],
+
+   backend: [
+     "Node.js",
+     "Express.js"
+   ],
+
+   database: [
+     "MongoDB",
+     "MySQL"
+   ],
+
+   authentication: [
+     "Firebase",
+     "JWT"
+   ],
+
+   tools: [
+     "Git",
+     "GitHub",
+     "Postman",
+     "VS Code",
+     "Vercel" ] },
+
+   currentFocus:
+      "Building scalable Full Stack Web Applications",
+   currentlyLearning:
+      "Advanced Backend Development & System Design",
 };
 ```
 
